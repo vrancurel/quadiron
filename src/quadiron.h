@@ -44,6 +44,8 @@
 #include "fec_rs_gf2n_fft_add.h"
 #include "fec_rs_gfp_fft.h"
 #include "fec_rs_nf4.h"
+#include "cipher_base.h"
+#include "cipher_rlwe.h"
 
 /** Return the version string of QuadIron.
  *

@@ -124,6 +124,7 @@ set(TEST_SRC
   ${CMAKE_CURRENT_SOURCE_DIR}/buffers_utest.cpp
   ${CMAKE_CURRENT_SOURCE_DIR}/vector_utest.cpp
   ${CMAKE_CURRENT_SOURCE_DIR}/quadiron_c_utest.cpp
+  ${CMAKE_CURRENT_SOURCE_DIR}/cipher_utest.cpp
   ${CMAKE_CURRENT_SOURCE_DIR}/simd/test_allocator.cpp
   ${CMAKE_CURRENT_SOURCE_DIR}/simd/test_definitions.cpp
   ${CMAKE_CURRENT_SOURCE_DIR}/simd/test_simd.cpp
